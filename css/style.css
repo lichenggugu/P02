@@ -470,6 +470,9 @@ footer{
 }
 
  nav{
+  float: right;
+  margin-top: 2rem;
+
  }
 
  nav a{
@@ -477,5 +480,5 @@ footer{
   font-weight: 400;
   font-size: 18px;
   line-height: 1.9;
-  color: lightgray;
+  color: white;
  }
